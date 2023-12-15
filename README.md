@@ -5,7 +5,7 @@ This is a simple implementation of the classic Snake game using Python and the P
 ## Installation
 
 1. Ensure you have Python 3 and Pygame installed.
-2. Clone the repository: `git clone https://github.com/yourusername/snake-game.git`
+2. Clone the repository: `git clone https://github.com/ambicuity/snake.git`
 3. Navigate into the project directory: `cd snake-game`
 4. Run the game: `python game.py`
 
